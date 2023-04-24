@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">APP_Exchange</string>
+    <string name="conversion">Conversion</string>
+    <string name="dirham">DH</string>
+    <string name="dollar">$</string>
+    <string name="btn_dol_to_dh">Dollar -> Dirham</string>
+    <string name="montant_dollar">Montant en Dollar</string>
+</resources>
